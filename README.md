@@ -2,7 +2,7 @@
 
 A privacy-first personal finance app for iOS, built to replace [Spendee](https://www.spendee.com) with deeper analytics, Google Sheets sync, and a personal data pipeline.
 
-> **Status:** 🚧 In active development — Week 1 of 7. See [milestones](#roadmap).
+> **Status:** 🚧 In active development — Phase 1. See [milestones](#roadmap).
 
 ---
 
