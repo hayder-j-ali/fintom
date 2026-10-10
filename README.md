@@ -107,5 +107,5 @@ MIT — see [LICENSE](./LICENSE).
 ## Author
 
 **Hayder Ali**
-Munich · Analytics Engineer
-[github.com/hayderalijaan](https://github.com/hayderalijaan)
+Munich · Business & Data Analyst
+[github.com/hayder-j-ali](https://github.com/hayder-j-ali)
